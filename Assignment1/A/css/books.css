@@ -1,0 +1,40 @@
+.logo{
+    width: 70px;
+    height: 70px;
+}
+body{
+    height: 100%;
+}
+li a{
+    color:white;
+    font-size: larger;
+    margin-top: 10px;
+}
+ li a:hover{
+    background-color: rgb(12, 104, 243);
+    color: white;
+}
+li a:active{
+    color: yellow;
+}
+.menu-bar{
+    padding: 10px;
+}
+.menu-bar button{
+    margin-left: 10px;
+}
+.menu-bar a:hover{
+    background-color: rgb(12, 104, 243);
+}
+.menubar-container{
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+.table-container{
+    margin-top: -20px;
+    margin-left: 10px;
+    margin-right: 15px;
+}
+.footer-button-container{
+    display: inline-flex;
+}

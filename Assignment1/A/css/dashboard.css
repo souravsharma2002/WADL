@@ -1,0 +1,27 @@
+
+.logo{
+    width: 70px;
+    height: 70px;
+}
+body{
+    height: 100%;
+}
+li a{
+    color:white;
+    font-size: larger;
+    margin-top: 10px;
+}
+ li a:hover{
+    background-color: rgb(12, 104, 243);
+    color: white;
+}
+li a:active{
+    color: yellow;
+}
+.card-container{
+    display: inline-flex;
+}
+.cards a:hover{
+
+    text-decoration: none;
+}
